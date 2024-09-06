@@ -40,6 +40,6 @@
 
 <br/>
 
-[![AgnesBressan](https://github-readme-stats.vercel.app/api?username=Playergeek181&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Playergeek181](https://github-readme-stats.vercel.app/api?username=Playergeek181&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![AgnesBressan](https://github-readme-stats.vercel.app/api/top-langs/?username=Playergeek181&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Playergeek181](https://github-readme-stats.vercel.app/api/top-langs/?username=Playergeek181&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
